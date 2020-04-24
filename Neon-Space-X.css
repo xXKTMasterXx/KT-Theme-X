@@ -13,7 +13,7 @@
 	--dfont:						Whitney, Helvetica Neue, Helvetica, Arial, sans-serif;
 	--dtextshadow:					transparent;
 	
-	--dbackground:					url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/background.jpg);
+	--dbackground:					url(https://raw.githubusercontent.com/DerAdministrator/Neon-Space-X/master/Neon-Space-X.jpg);
 	--dbackgroundsize:				cover;
 	--dblur:						0px;
 	--dbackdrop:					rgba(0,0,0,0.85);
@@ -5798,7 +5798,7 @@ img[src="/assets/3f8d3e1dd3c9426ac7e680dada39650e.png"] {
 	background: rgb(var(--fontwhite1));
 	object-position: -9999999px -9999999px;
 }
-img[src="/assets/3a257c4cab129e956b05bd50047eb0f9.png"],	/* connectionicon		battlenet							*/
+img[src="/assets/3a257c4cab129e956b05bd50047eb0f9"],	/* connectionicon		battlenet							*/
 img[src="/assets/cf74f0c780cba6ae11728b8ca740b30c.png"] {
 	-webkit-mask: url(https://discordapp.com/assets/3a257c4cab129e956b05bd50047eb0f9.png) center/contain no-repeat;
 	background: rgb(var(--fontwhite1));

@@ -3251,14 +3251,11 @@ textarea::-webkit-scrollbar{
 	background:rgba(255,255,255,.2);
 	border-radius:0
 }
-.message-2CShn3>div[style^="border-radius: 2px;
-"]{
+.message-2CShn3>div[style^="border-radius: 2px;"]{
 	border-radius:3px !important;
 	animation:cv-message-jump 2s ease-in-out
 }
-.message-2CShn3>div[style^="border-radius: 2px;
-"][style$="0);
-"]{
+.message-2CShn3>div[style^="border-radius: 2px;"][style$="0);"]{
 	animation:none
 }
 .inlineMediaEmbed-1m3ApS{
@@ -7675,8 +7672,7 @@ code{
 }
 .theme-dark .micTest-19EtdQ .container-3NTP7o{
 	background:var(--main-color) !important;
-	-webkit-mask-image:url("data:image/svg+xml;
-	charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='20' fill='yellow'%3E%3Cpath fill-rule='evenodd' d='M 4 2 C 2.895 2 2 2.895 2 4 L 2 16 C 2 17.54 3.667 18.502 5 17.732 C 5.619 17.375 6 16.715 6 16 L 6 4 C 6 2.895 5.105 2 4 2 Z'/%3E%3C/svg%3E")
+	-webkit-mask-image:url("data:image/svg+xml; charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='20' fill='yellow'%3E%3Cpath fill-rule='evenodd' d='M 4 2 C 2.895 2 2 2.895 2 4 L 2 16 C 2 17.54 3.667 18.502 5 17.732 C 5.619 17.375 6 16.715 6 16 L 6 4 C 6 2.895 5.105 2 4 2 Z'/%3E%3C/svg%3E")
 }
 .theme-dark .micTest-19EtdQ .progress-1S-TDF{
 	background-color:rgba(0,0,0,.7)
